@@ -1,0 +1,1 @@
+var mixedArray = ["Jashwant", 22, true];
